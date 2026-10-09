@@ -1,0 +1,22 @@
+# Python and notebook artifacts
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.pyc
+
+# Generated runs, checkpoints, local datasets and large artifacts
+runs/
+datasets/
+data/
+weights/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Editor and OS artifacts
+.DS_Store
+Thumbs.db
+.vscode/

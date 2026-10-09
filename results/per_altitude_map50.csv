@@ -1,0 +1,4 @@
+model,high,low,medium,unknown,source
+M1 YOLO26n baseline,0.613,0.6673,0.8483,0.7032,Report Table 10 p11
+M2 YOLO26n NMS,0.6074,0.6583,0.8593,0.7296,Report Table 10 p11
+M3 P2,0.6124,0.6158,0.7879,0.6795,Report Table 10 p11

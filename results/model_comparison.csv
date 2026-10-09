@@ -1,0 +1,5 @@
+model,map50,map50_95,precision,recall,source
+M1 YOLO26n baseline,0.815,0.4758,0.861,0.7854,Report Table 4 p10
+M2 YOLO26n NMS,0.815,0.4758,0.861,0.7854,Report Table 4 p10
+M3a YOLO26-P2 box7.5,0.7653,0.4282,0.7863,0.7287,Report Table 4 p10
+M3b YOLO26-P2 box9.0,0.7524,0.4256,0.7609,0.741,Report Table 4 p10

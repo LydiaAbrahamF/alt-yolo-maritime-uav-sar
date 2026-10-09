@@ -1,0 +1,5 @@
+condition,map50,map50_95,precision,recall,avg_detections_per_image,source
+A baseline,0.815,0.4758,0.861,0.7854,,Report Table 8 p10
+B glare only,0.7232,0.4053,0.7771,0.689,,Report Table 8 p10
+C altitude-conditioned SAHI,0.7319,,,0.8557,6.6,Report Table 8 p10 (manual AP)
+D SAHI and glare,0.6239,,,0.7862,10.54,Report Table 8 p10 (manual AP)

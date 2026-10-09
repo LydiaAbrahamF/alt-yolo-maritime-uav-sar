@@ -1,0 +1,5 @@
+altitude_bin,fixed_tile,avg_detections_fixed,conditioned_tile,avg_detections_conditioned,delta,source
+high,320x320,8.3,256x256,8.2,-0.1,Report Table 7 p10; 20 images per bin
+medium,320x320,6.65,320x320,6.65,0.0,Report Table 7 p10; 20 images per bin
+low,320x320,2.05,480x480,1.95,-0.1,Report Table 7 p10; 20 images per bin
+unknown,320x320,6.9,320x320,6.9,0.0,Report Table 7 p10; 20 images per bin
